@@ -1,0 +1,21 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The best wat to watch Video",
+  "scripts": {
+    "win": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullpango/wetube-reloaded.git"
+  },
+  "author": "Bullpango",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bullpango/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/bullpango/wetube-reloaded#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
